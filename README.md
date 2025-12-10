@@ -1,5 +1,9 @@
 # winget-auto-bulk-install
-auto bulk installs my programs
+auto bulk installs my programs really
+
+
+
+
 $apps = @(
     "Google.Chrome",
     "Mozilla.Firefox",
